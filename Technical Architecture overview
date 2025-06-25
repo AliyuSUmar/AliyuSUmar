@@ -1,0 +1,13 @@
+# Technical Architecture Overview
+
+## System Components
+- Frontend: React with Tailwind CSS
+- Backend: Node.js / Express API
+- AI Layer: OpenAI-powered GPT APIs
+- Database: MongoDB + Redis Cache
+- Mobile Access: Flutter-based eSIM app
+
+## Infrastructure
+- Cloud Hosted (AWS/GCP)
+- Scalable Microservices
+- Secure API Gatewa
